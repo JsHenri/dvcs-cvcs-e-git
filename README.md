@@ -370,7 +370,7 @@ Descrição: Puxa atualizações da branch especificada do repositório upstream
 git pull origin "nome da branch"
 ```
 
-Descrição: Puxa atualizações da branch especificada do repositório origin e integra na branch atual.
+Descrição: Puxa atualizações da branch especificada e integra na branch atual.
 
 # O que é Gitflow
 
