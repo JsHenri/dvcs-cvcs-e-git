@@ -40,9 +40,6 @@ CVCS significa Centralized Version Control System (Sistema de Controle de Versã
 ## Exemplo:
 Um desenvolvedor usa um servidor CVCS como o Subversion para fazer check-out(que significa o processo de trazer uma cópia do que esta no repositório remóto para repositório local) dos arquivos do repositório central. Após fazer modificações, o desenvolvedor faz os commits para o servidor central onde os outros desenvolvedores podem acessar e atualizar seus trabalhos.
 
-# Versionamento de Branches
-As Branches também conhecidas como ramificações no Git são estados salvos de um projeto desenvolvido ou em desenvolvimennto dentro de um repositório. As versões permitem que seja possivel trabalhar em diferentes funcionalidades, correções de bugs ou experimentos de uma maneira isolada.
-
 # O que é DVCS
 DVCS significa Distributed Version Control System (Sistema de Controle de Versão Distribuído). É um tipo de sistema de controle de versão onde o repositório é completo de código, que inclui todo histórico de mudanças, e tudo nele é clonado para cada usuario que trabalha no projeto.
 
@@ -72,6 +69,9 @@ DVCS significa Distributed Version Control System (Sistema de Controle de Versã
 
 ## Exemplo de Uso:
 Um desenvolvedor pode clonar um repositório Git, trabalhar em uma nova funcionalidade em uma branch local, fazer commits e, quando estiver satisfeito, enviar (push) essas mudanças para o repositório central ou compartilhar diretamente com outros desenvolvedores.
+
+# Versionamento de Branches
+As Branches também conhecidas como ramificações no Git são estados salvos de um projeto desenvolvido ou em desenvolvimennto dentro de um repositório. As versões permitem que seja possivel trabalhar em diferentes funcionalidades, correções de bugs ou experimentos de uma maneira isolada.
 
 ## Como funciona:
 
